@@ -23,10 +23,10 @@
     --charcoal-300: hsl(0, 0%, 54%);
     --charcoal-400: hsl(0, 0%, 67%);
     --charcoal-500: hsl(0, 0%, 70%);
-    --charcoal-600: hsl(0, 0%, 73%);
+    --charcoal-600: #555;
     --charcoal-700: hsl(0, 0%, 80%);
     --charcoal-800: hsl(0, 0%, 87%);
-    --charcoal-900: hsl(0, 0%, 93%);
+    --charcoal-900: #14cc80;
     --slate-100: hsl(210, 20%, 12%);
     --slate-500: hsl(200, 11%, 26%);
     --slate-800: hsl(220, 22%, 84%);
